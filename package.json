@@ -1,0 +1,27 @@
+{
+  "name": "test1",
+  "version": "1.0.0",
+  "description": "test1",
+  "main": "index.js",
+  "scripts": {
+    "test": "test1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nachoislas/test1.git"
+  },
+  "keywords": [
+    "Nacho"
+  ],
+  "author": "Nacho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nachoislas/test1/issues"
+  },
+  "homepage": "https://github.com/nachoislas/test1#readme",
+  "dependencies": {
+    "Complex": "^3.0.0",
+    "express": "^4.17.1",
+    "readline-sync": "^1.4.10"
+  }
+}
